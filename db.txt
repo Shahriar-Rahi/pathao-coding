@@ -6,7 +6,7 @@ order
 oid, rid, delivery_type, weight, quantity,  amount, description, merchant_id
 
 store
-sid, oid, store_name
+sid, pid, store_name
 
 product
-pid, sid, product_type, 
+pid, sid, sid, product_type, 
