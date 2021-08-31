@@ -1,0 +1,12 @@
+recipient
+
+rid, phone, city, zone, area, address
+
+order
+oid, rid, delivery_type, weight, quantity,  amount, description, merchant_id
+
+store
+sid, oid, store_name
+
+product
+pid, sid, product_type, 

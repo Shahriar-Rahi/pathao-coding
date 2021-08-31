@@ -1,0 +1,4 @@
+/create-recipient|store|product
+/create-order
+
+/get-update-delete for all
